@@ -103,11 +103,6 @@ Connected the analysis to the original business problem and identified opportuni
 
 
 
-**1. Business Problem**  
-NutriBasket wanted better visibility into marketing performance as it expanded its focus on online sales.
-
-
-
 ---
 
 ## Project Links
